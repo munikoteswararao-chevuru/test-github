@@ -1,1 +1,2 @@
 Hi Squash 1st commit
+second commit 
